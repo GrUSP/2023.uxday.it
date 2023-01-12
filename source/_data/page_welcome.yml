@@ -1,9 +1,9 @@
 intro:
   main_title: "Welcome"
-  content_1: "I CSS sono uno degli strumenti più potenti, ed allo stesso tempo sottovalutati, del nuovo rinascimento del web. Nato come track del jsday e dallo stesso team organizzativo di Kerning, il uxday vuole dare una dignità alla tecnologia che rende tutti i siti più leggibili, interattivi ed anche belli da vedere."
+  content_1: "uxday è la prima conferenza italiana dedicata esclusivamente alla User Experience, in tutte le sue declinazioni. Nasce da GrUSP, che organizza da anni conferenze come cssday, Kerning, jsday e molte altre."
   content_2: "L'obiettivo dell'evento è consentire alla community di incontrarsi e condividere esperienze divertendosi e facendo rete in un contesto piacevole."
 # this is the global "read more" label
-readmore_label: "Leggi tutto" 
+readmore_label: "Leggi tutto"
 # these are the title and descriptions of the 6 blocks
 info_about:
   title: "About"
