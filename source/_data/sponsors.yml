@@ -33,10 +33,10 @@ bronze:
     name: "extera"
     logo_filename: "extera.svg"
     site_url: "https://www.extera.com/"
-  # sponsor2:
-  #   name: "stickermule"
-  #   logo_filename: "stickermule.svg"
-  #   site_url: ""
+  sponsor4:
+    name: "Sticker Mule"
+    logo_filename: "stickermule.svg"
+    site_url: "https://www.stickermule.com/it/uses/laptop-stickers"
 # diversity:
 #   sponsor1:
 #     name: "S"
