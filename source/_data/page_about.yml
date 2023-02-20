@@ -27,6 +27,10 @@ team:
       role: "sponsor management"
       pic_filename: "giovanna.jpg"
     member_2:
+      name: "Giorgio Fochesato"
+      role: "community manager"
+      pic_filename: "giorgio-fochesato.png"
+    member_3:
       name: "Francesco Fullone"
       role: "troublemaker"
       pic_filename: "fullo.jpg"
