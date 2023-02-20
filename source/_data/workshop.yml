@@ -2,100 +2,91 @@ read_more_label: "Maggiori informazioni"
 summary_page_aria_label: "workshop"
 summary_page_button_label: "Torna alla pagina workshop"
 # image credits (l'esempio è per la hero del CSS Day!)
-workshop_img_credits: 
+workshop_img_credits:
 
 workshops:
-  font_variabili:
-    ws_id: font_variabili
+  design-system:
+    ws_id: design-system
     is_external: false
-    page_uri: "workshop/font_variabili.html"
-    page_title: "Tipografia web e font variabili"
-    workshop_title: "Tipografia web e font variabili"
-    ticket_url: "https://uxday-2021.eventbrite.com"
+    page_uri: "workshop/design-system.html"
+    page_title: "Design System fantastici e come farli"
+    workshop_title: "Design System fantastici e come farli"
+    ticket_url: "https://uxday-2023.eventbrite.com"
     ticket_label: "Partecipa"
     location_title: "Dove"
-    # location: "Verona"
-    online_location: "online"
-    # location_name: "Hotel San Marco"
+    location: "Faenza"
+   # online_location: "online"
+    location_name: "Faventia Sales (Complesso Ex Salesiani)"
     # location_name: "The Internet"
     # location_contact_phone: "+045569011"
     # location_contact_email: "sanmarco@sanmarco.vr.it"
     # location_contact_url: "https://www.sanmarco.vr.it/"
-    # location_address: "Via Longhena 42, 37138 Verona (VE) Italy"
-    # location_maps_url: "https://www.google.com/maps/place/Hotel+San+Marco+Fitness+Pool+%26+SPA/@45.4399961,10.9697441,17z/data=!3m1!4b1!4m8!3m7!1s0x4781e1e30a8be6af:0x8091b108e1d130c6!5m2!4m1!1i2!8m2!3d45.4399961!4d10.9719328"
-    # location_maps_label: "Get directions"
+    location_address: "Via San Giovanni Bosco 1, Faenza"
+    location_maps_url: "https://goo.gl/maps/UmD42mCcBRPiXzwd8"
+    location_maps_label: "Dove"
     # location_additional_info: "L'hotel offre tariffe scontate ai partecipanti ai workshop, sia per camere singole sia per camere doppie."
-    location_additional_info: "Il workshop si svolge online, in aula virtuale"
+    # location_additional_info: "Il workshop si svolge online, in aula virtuale"
     whatandwhen_title: "Quando"
-    # whatandwhen_additional_info: "Registrazione, caffè e pranzo inclusi"
-    whatandwhen_additional_info: "8 ore, divise in due sessioni: Martedì 16 e Mercoledì 17 Marzo 2021, dalle 9 alle 13."
-    date: 2021-03-16 09:00
-    end_date: 2021-03-17 13:00
-    date_text:
+    whatandwhen_additional_info: "Giovedì 8 Giugno 2023, dalle 9:30 alle 17:30. Pausa caffè e pranzo inclusi."
+    # whatandwhen_additional_info: "additional"
+    date: 2023-06-08T09:30+02:00
+    end_date: 2023-06-08T18:00+02:00
+    date_text: "Giovedì 8 Giugno 2023, dalle 9:30 alle 17:30"
     language_title: "Lingua"
     language: "italiano"
-    # language_ext: "Lingua: italiano"
-    language_additional_info: ""  
-    # collab: "Workshop realizzato in collaborazione con Giulia Laco"
-    description: "Progettare un sistema tipografico per siti web sfruttando i vantaggi del formato OpenType 1.8"
-    description_long: 
-      "<strong> Progettare un sistema tipografico per siti web sfruttando i vantaggi del formato OpenType 1.8 </strong>
-      <br>
-      <br  /> I font variabili rappresentano una grossa novità per la tipografia dei siti web e godono oggi di un buon supporto a livello dei browser. Il formato rappresenta inoltre un’opportunità di miglioramento delle performance dei web font e un sorprendente ampliamento delle possibilità tipografiche. I siti web sono strutture complesse in cui il testo compare con diverse funzioni: dal corpo del testo, ai titoli, ai menù di navigazione e non solo. Ogni parte merita un diverso trattamento tipografico per esaltare al contempo l'architettura del sito, la struttura di pagina e la natura stessa del contenuto. I font variabili sembrano proprio venirci in aiuto. Per sfruttarne appieno le potenzialità, occorre capirne le ragioni storiche e immaginarne l’utilizzo creativo nelle interfacce digitali, nell’animazione del testo, nel design fluido, fino all’espressione del brand in modi nuovi, prima impensabili.
-      <br>
-      <br  /> Nel workshop verranno affrontati sia aspetti teorici che pratici.
-      <br>
-      <br  /> <strong> Cosa ottieni frequentando questo workshop: </strong>
-      <ul>
-        <li>• Conoscenza del formato dei font variabili e collocazione nella storia tipografica</li>
-        <li>• Capacità di corretta implementazione dei font variabili e dei fallback font con consapevolezza delle tematiche legate al web font loading</li>
-        <li>• Consapevolezza di cosa si acquista quando si compera un font</li>
-        <li>• Spunti per la creatività in base a ciò che un dato font prevede</li!>
-      </ul>
-      <br>"
+    language_ext: ""
+    language_additional_info: ""
+    collab: "Workshop realizzato in collaborazione con <a href='https://www.belkadigital.com/'>Belka</a>"
+    description: "Impara come a migliorare i processi e migliorare la comunicazione nei team!"
+    description_long:
+      "<strong>Impara come a migliorare i processi e migliorare la comunicazione nei team!</strong>
+      <br><br  /> È capitato anche a te di ritrovarti davanti all’ennesima pagina dello stesso prodotto che sembra completamente diversa da quella precedente?
+      Arrivare alla fine di un progetto in cui ti sembra di aver inventato la ruota da capo e ti senti dire dallə collega ''guarda che avevamo disegnato una pagina molto simile per quest’altra funzionalità?'
+      Oppure che lə sviluppatorə in fase di handoff ti dica: 'Questo componente lo abbiamo già. Non mi dirai mica che devo rifarlo da capo?'
+      <br><br  /> Beh, è successo anche noi di Belka! Fino a che non abbiamo deciso di risolvere il problema alla radice e creare una conoscenza condivisa su come creare, curare e mantenere un design system, sia all’interno del nostro team che con i clienti.
+      Da lì in poi, tutto il resto è storia: abbiamo aiutato le migliori scaleup italiane come <a href='https://www.belkadigital.com/fatture-in-cloud'>Fatture in Cloud</a>, <a href='https://www.belkadigital.com/case-study-spiagge'>Spiagge.it</a> o Credimi a portare questo strumento nei loro team e dare una svolta alla loro comunicazione.
+      E che fai, non vieni anche tu?
+      <br><br  /> "
     # video trailer?
     trailer: false
     trailer_url: "https://player.vimeo.com/video/352012164"
     # nota sul titolo: se il linguaggio specificato in `language` NON in clude 'italian', in pagina viene aggiunta la "s" finale
-    teacher_title: "Docente"
+    teacher_title: "Insegnanti"
     teachers:
       teacher_1:
-        teacher_name: "Giulia Laco"
-        teacher_bio: "Formazione umanistica mescolata alla Logica matematica, la Linguistica, l’Intelligenza Artificiale e la Filosofia del Linguaggio. 
-          Attratta dal Web design fin dagli esordi, sono stata webmaster in azienda nell’altro secolo e Web designer/developer in questo, appassionandomi ciclicamente a nuove discipline: Web Marketing, Architettura dell’Informazione, SEO, UX e Web Typography – per citarne alcune. 
-          Da qualche anno cerco di ispirare la comunità dei web designer all’utilizzo consapevole della tipografia per il web."
-        pic_filename: "giulia-laco.jpg"
-        teacher_role: "Web designer/developer"
-        teacher_org: "WebMatter"
-    # teacher_2:
-      #  teacher_name: ""
-      # teacher_bio: ""
-      # pic_filename: ""
-      # teacher_role: ""
-      # teacher_org: ""
+        teacher_name: "Mattia Marinangeli"
+        teacher_bio: "<a href='https://www.linkedin.com/in/mattiamarinangeli/''>Mattia</a> ha diversi anni di esperienza come product designer in varie agenzie digitali, aziende e startup. Attualmente collabora con Belka su progetti di Design System come product designer, consulente e formatore. Designer del FantaSanremo (sì raga, proprio quello), è appassionato da sempre di musica, sport di montagna e da tutto ciò che è visivo. Marchigiano DOC, sa anche far ridere."
+        pic_filename: "Mattia-Marinangeli.jpeg"
+        teacher_role: "Product designer"
+        teacher_org: "Belka"
+      teacher_2:
+        teacher_name: "Eugenia Valentini"
+        teacher_bio: "Filosofa per caso, relational designer diplomata e product designer per scelta. In Belka dal 2021, <a href='https://www.linkedin.com/in/eugenia-valentini-design/'>Eugenia</a> non ha ancora capito perchè finisce sempre in progetti iper-complessi. Ama fare domande scomode. Da vera nomade digitale, lavora ogni mese da un posto diverso. Di solito le sue riunioni iniziano con un 'Oggi da dove ci chiami?'"
+        pic_filename: "Eugenia-Valentini.jpeg"
+        teacher_role: "Product designer"
+        teacher_org: "Belka"
     topics_title: "Argomenti trattati"
     topics:
-      - "Web font, font di sistema, UI system font"
-      - "Formati di font"
-      - "Direttiva CSS @font-face"
-      - "Il caricamento dei font, FOIT/FOUT"
-      - "La proprietà font-display"
-      - "Fallback font e font-stack"
-      - "I font variabili"
-      - "Gli assi di variazione"
-      - "Proprietà CSS (basso livello vs. CSS4)"
-      - "Font-size (unità di misura)"
-      - "Responsive Web Typography vs. Fluid Web Typography"
-      - "Typesetting del paragrafo perfetto"
-      - "Anatomia dei caratteri"      
-      - "Classificazione"
-      - "Font-pairing" 
-      - "Testo e funzione"      
+      - "Introduzione al Design System: cos’è, come funziona (sì, e quando ha senso farlo);"
+      - "Un design system è qualcosa di più: il punto di vista del team di design e sviluppo, di operations e del business;"
+      - "Panoramica sul processo: la ricetta magica di Belka;"
+      - "Ingegneria dei componenti: parliamo di atomi, organismi e template;"
+      - "Le proprietà dei componenti (varianti, booleani, properties e nested instances): cosa sono, quando usarli e come non crearne troppi"
+      - "L’importanza della documentazione: creiamo una pagina di documentazione e vi sveliamo qualche plug-in di cui non potrete più fare a meno"
+      - "Mantenimento: gestirne uno dopo che l’hai fatto e l’importanza della comunicazione tra team"
     addressees_title: "A chi è rivolto"
-    addressees_description: "Il corso è rivolto a designer, sviluppatori, product owner e manager che vogliano applicare font variabili e principi di tipografia al proprio prodotto o progetto."
+    addressees_description: "UX/UI designer e product designer con almeno 1 anno di esperienza professionale che lavorano all’interno di team di startup che stanno scalando oppure aziende più consolidate che necessitano di migliorare i processi.
+     <br><br  />Questo workshop è un'ideale prosecuzione del <a href='https://2023.cssday.it/workshop/figma.html'>workshop su Figma avanzato</a> che si terrà il 30 Marzo a Faenza, abbinato a <a href='https://2023.cssday.it/'>cssday.</a>"
     requirements_title: "Requisiti di partecipazione"
-    requirements_description: "Per partecipare è necessaria una conoscenza base di CSS e HTML. <br /> Ti serviranno inoltre un editor di codice e il browser (consigliata: ultima versione di Firefox) <br /> Verranno suggeriti prima del corso eventuali altri strumenti/configurazioni utili."
-    useful_info_title: "Informazioni utili"
-    useful_info_description: "Il workshop si svolge online e dura 8 ore, divise in due mattine: Martedì 16 e Mercoledì 17 Marzo 2021, dalle 9 alle 13."
+    requirements_description: "<bold>Il livello di questo corso è avanzato.</bold>
+    È necessario conoscere Figma a livello intermedio: è fondamentale la conoscenza base delle funzionalità di autolayout e dei componenti.
+    Diamo per scontato che tu abbia un portatile con Figma installato, un account personale attivo e un po’  di esperienza. Al resto ci pensiamo noi."
+    useful_info_title: "Cosa ottieni partecipando"
+    useful_info_description: "<ul>
+    <li>Ti spieghiamo passo a passo il processo per creare un DS da zero, quando applicarlo e le buone pratiche in Figma per realizzarlo.</li>
+    <li>No fuffa, molte esercitazioni pratiche. Ti facciamo vedere come facciamo ogni giorno con nostri clienti. Spazio per tutte le tue domande.</li>
+    <li>I consigli pro dall’esperienza pluriennale di Belka con le migliori aziende tech italiane.</li>
+    <li>Ci assicuriamo di avere un gruppo selezionato di partecipanti per partire con un livello comune e coi quali, perché no, stringere nuove amicizie. Belka crede nelle relazioni magiche.</li>
+    </ul>"
     # CTA
-    cta_title: "Hurry up. There are only a few available places!"
+    cta_title: "Acquista il biglietto per partecipare"

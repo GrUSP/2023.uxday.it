@@ -87,7 +87,7 @@ speaker_10: &matteo-tibolla
   speaker_in_speaker_lists: true
   speaker_name: Matteo Tibolla
   speaker_pic_filename: matteo-tibolla.png
-  speaker_role: "UX Reseracher e Consulente Digital Marketing	"
+  speaker_role: "UX Researcher e Consulente Digital Marketing	"
   speaker_bio: "Sociologo delle organizzazioni, appassionato da sempre degli effetti della tecnologia sul benessere delle persone, è UX researcher, consulente di digital marketing e formatore. Dopo un’esperienza come analista e consulente in agenzia di neuromarketing, si specializza negli studi sulla User Experience e web usability. Nel 2023 pubblica il libro ''User Experience Research. Scienza e principi guida per esperienze online efficaci'"
   speaker_linkedin_url: "https://www.linkedin.com/in/matteotibolla/"
   is_mc: false
