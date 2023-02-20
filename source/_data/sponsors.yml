@@ -37,11 +37,11 @@ bronze:
     name: "Sticker Mule"
     logo_filename: "stickermule.svg"
     site_url: "https://www.stickermule.com/it/uses/laptop-stickers"
-# diversity:
-#   sponsor1:
-#     name: "S"
-#     logo_filename: ""
-#     site_url: ""
+diversity:
+  sponsor1:
+    name: "Balsamiq"
+    logo_filename: "balsamiq.svg"
+    site_url: "https://balsamiq.com/wireframes/"
 
 # Partner configuration
 partner_tags:

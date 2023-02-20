@@ -63,7 +63,10 @@ speaker_7: &ilaria-mauric
   speaker_name: Ilaria Mauric
   speaker_pic_filename: ilaria-mauric.png
   speaker_role: "Head of Design @ Tangible"
-  speaker_bio: ""
+  speaker_bio: "Sono socia, Impact Manager e Head of Design di Tangible.
+Come socia, contribuisco alla definizione della nostra vision, allo sviluppo e consolidamento della nostra cultura aziendale e al posizionamento del nostro brand, attività che alimentano quotidianamente la mia motivazione.
+Come Impact Manager, insieme ai miei colleghi del BCorp team, analizziamo, implementiamo e misuriamo l'impatto delle iniziative collegate ai nostri obiettivi di beneficio comune, che poi rendicontiamo nel nostro report d'impatto.
+Come Head of Design, supporto i nostri team a progettare secondo processi e metodi humane-centered, attenti agli impatti sui sistemi sociali e ambientali e basati sulla collaborazione con clienti e stakeholders."
   speaker_linkedin_url: "https://www.linkedin.com/in/ilariamauric/"
   is_mc: false
 speaker_8: &luca-rosati
@@ -95,7 +98,7 @@ speaker_11: &marco-santonocito
   speaker_in_speaker_lists: true
   speaker_name: Marco Santonocito
   speaker_pic_filename: marco-santonocito.png
-  speaker_role: "MASTER OF CEREMONIES"
+  speaker_role: "MASTER OF CEREMONIES - Head of Product @ Talent Garden"
   speaker_bio: ""
   speaker_github_url: ""
   speaker_twitter_url: ""
