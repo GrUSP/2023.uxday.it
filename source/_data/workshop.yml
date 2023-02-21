@@ -14,9 +14,9 @@ workshops:
     ticket_url: "https://uxday-2023.eventbrite.com"
     ticket_label: "Partecipa"
     location_title: "Dove"
-    location: "Faenza"
+    location: "In presenza a Faenza"
    # online_location: "online"
-    location_name: "Faventia Sales (Complesso Ex Salesiani)"
+    location_name: "In presenza a Faenza, presso Faventia Sales (Complesso Ex Salesiani)"
     # location_name: "The Internet"
     # location_contact_phone: "+045569011"
     # location_contact_email: "sanmarco@sanmarco.vr.it"
@@ -36,12 +36,12 @@ workshops:
     language: "italiano"
     language_ext: ""
     language_additional_info: ""
-    collab: "Workshop realizzato in collaborazione con <a href='https://www.belkadigital.com/'>Belka</a>"
-    description: "Impara come a migliorare i processi e migliorare la comunicazione nei team!"
+    collab: "Workshop in presenza a Faenza, realizzato in collaborazione con <a href='https://www.belkadigital.com/'>Belka</a>"
+    description: "Impara a migliorare processi e comunicazione nei team!"
     description_long:
-      "<strong>Impara come a migliorare i processi e migliorare la comunicazione nei team!</strong>
+      "<strong>Impara a migliorare processi e comunicazione nei team!</strong>
       <br><br  /> È capitato anche a te di ritrovarti davanti all’ennesima pagina dello stesso prodotto che sembra completamente diversa da quella precedente?
-      Arrivare alla fine di un progetto in cui ti sembra di aver inventato la ruota da capo e ti senti dire dallə collega ''guarda che avevamo disegnato una pagina molto simile per quest’altra funzionalità?'
+      Arrivare alla fine di un progetto in cui ti sembra di aver inventato la ruota da capo e ti senti dire dal tuo team 'guarda che avevamo disegnato una pagina molto simile per quest’altra funzionalità?'
       Oppure che lə sviluppatorə in fase di handoff ti dica: 'Questo componente lo abbiamo già. Non mi dirai mica che devo rifarlo da capo?'
       <br><br  /> Beh, è successo anche noi di Belka! Fino a che non abbiamo deciso di risolvere il problema alla radice e creare una conoscenza condivisa su come creare, curare e mantenere un design system, sia all’interno del nostro team che con i clienti.
       Da lì in poi, tutto il resto è storia: abbiamo aiutato le migliori scaleup italiane come <a href='https://www.belkadigital.com/fatture-in-cloud'>Fatture in Cloud</a>, <a href='https://www.belkadigital.com/case-study-spiagge'>Spiagge.it</a> o Credimi a portare questo strumento nei loro team e dare una svolta alla loro comunicazione.
@@ -67,7 +67,7 @@ workshops:
         teacher_org: "Belka"
     topics_title: "Argomenti trattati"
     topics:
-      - "Introduzione al Design System: cos’è, come funziona (sì, e quando ha senso farlo);"
+      - "Introduzione al Design System: cos’è, come funziona e sì, quando ha senso farlo?;"
       - "Un design system è qualcosa di più: il punto di vista del team di design e sviluppo, di operations e del business;"
       - "Panoramica sul processo: la ricetta magica di Belka;"
       - "Ingegneria dei componenti: parliamo di atomi, organismi e template;"
@@ -78,12 +78,12 @@ workshops:
     addressees_description: "UX/UI designer e product designer con almeno 1 anno di esperienza professionale che lavorano all’interno di team di startup che stanno scalando oppure aziende più consolidate che necessitano di migliorare i processi.
      <br><br  />Questo workshop è un'ideale prosecuzione del <a href='https://2023.cssday.it/workshop/figma.html'>workshop su Figma avanzato</a> che si terrà il 30 Marzo a Faenza, abbinato a <a href='https://2023.cssday.it/'>cssday.</a>"
     requirements_title: "Requisiti di partecipazione"
-    requirements_description: "<bold>Il livello di questo corso è avanzato.</bold>
-    È necessario conoscere Figma a livello intermedio: è fondamentale la conoscenza base delle funzionalità di autolayout e dei componenti.
-    Diamo per scontato che tu abbia un portatile con Figma installato, un account personale attivo e un po’  di esperienza. Al resto ci pensiamo noi."
+    requirements_description: "<strong>Il livello di questo corso è avanzato.</strong>
+    È necessario conoscere Figma già piuttosto bene, in particolare le funzionalità di autolayout e dei componenti.
+    Diamo per scontato che tu abbia un portatile con Figma installato, un account personale attivo e un po’  di esperienza. Al resto pensiamo noi."
     useful_info_title: "Cosa ottieni partecipando"
     useful_info_description: "<ul>
-    <li>Ti spieghiamo passo a passo il processo per creare un DS da zero, quando applicarlo e le buone pratiche in Figma per realizzarlo.</li>
+    <li>Ti spieghiamo passo a passo il processo per creare un design system da zero, quando applicarlo e le buone pratiche in Figma per realizzarlo.</li>
     <li>No fuffa, molte esercitazioni pratiche. Ti facciamo vedere come facciamo ogni giorno con nostri clienti. Spazio per tutte le tue domande.</li>
     <li>I consigli pro dall’esperienza pluriennale di Belka con le migliori aziende tech italiane.</li>
     <li>Ci assicuriamo di avere un gruppo selezionato di partecipanti per partire con un livello comune e coi quali, perché no, stringere nuove amicizie. Belka crede nelle relazioni magiche.</li>

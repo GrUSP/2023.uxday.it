@@ -11,12 +11,12 @@ menu:
   # scommentare per generare pagina
   # schedule: schedule
   # menu item for workshop
-  # workshop: workshop
+  workshop: workshop
 
 # workshops submenu (comment out if only one workshop: add items for multiple workshops)
-# workshop_submenu:
-#    font_variabili: Tipografia web e font variabili
-#   workshop_2: sample second workshop
+workshop_submenu:
+   design_system: Design System fantastici e come farli
+
 
 # welcome submenu
 welcome_submenu:
