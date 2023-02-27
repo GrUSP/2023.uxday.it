@@ -16,6 +16,7 @@ menu:
 # workshops submenu (comment out if only one workshop: add items for multiple workshops)
 workshop_submenu:
    design-system: Design System fantastici e come farli
+   ethical-compass: "Ethical Compass: progettare un’innovazione responsabile e consapevole"
 
 
 # welcome submenu

@@ -90,3 +90,78 @@ workshops:
     </ul>"
     # CTA
     cta_title: "Acquista il biglietto per partecipare"
+
+
+  ethical-compass:
+    ws_id: ethical-compass
+    is_external: false
+    page_uri: "workshop/ethical-compass.html"
+    page_title: "Ethical Compass: progettare un’innovazione responsabile e consapevole"
+    workshop_title: "Ethical Compass: progettare un’innovazione responsabile e consapevole"
+    ticket_url: "https://uxday-2023.eventbrite.com"
+    ticket_label: "Partecipa"
+    location_title: "Dove"
+    location: "In presenza a Faenza"
+   # online_location: "online"
+    location_name: "In presenza a Faenza, presso Faventia Sales (Complesso Ex Salesiani)"
+    # location_name: "The Internet"
+    # location_contact_phone: "+045569011"
+    # location_contact_email: "sanmarco@sanmarco.vr.it"
+    # location_contact_url: "https://www.sanmarco.vr.it/"
+    location_address: "Via San Giovanni Bosco 1, Faenza"
+    location_maps_url: "https://goo.gl/maps/UmD42mCcBRPiXzwd8"
+    location_maps_label: "Dove"
+    # location_additional_info: "L'hotel offre tariffe scontate ai partecipanti ai workshop, sia per camere singole sia per camere doppie."
+    # location_additional_info: "Il workshop si svolge online, in aula virtuale"
+    whatandwhen_title: "Quando"
+    whatandwhen_additional_info: "Giovedì 8 Giugno 2023, dalle 9:30 alle 17:30. Pausa caffè e pranzo inclusi."
+    # whatandwhen_additional_info: "additional"
+    date: 2023-06-08T09:30+02:00
+    end_date: 2023-06-08T18:00+02:00
+    date_text: "Giovedì 8 Giugno 2023, dalle 9:30 alle 17:30"
+    language_title: "Lingua"
+    language: "italiano"
+    language_ext: ""
+    language_additional_info: ""
+    collab: "Workshop in presenza a Faenza, realizzato in collaborazione con <a href='https://tangible.is/'>Tangible</a>"
+    description: "Una bussola per esplorare la complessità"
+    description_long:
+      "<strong>Una bussola per esplorare la complessità.</strong>
+      <br><br  /> L'Ethical Compass è uno strumento pratico che ha l’obiettivo di aiutare ad orientare le decisioni progettuali, provando ad immaginare l’impatto che queste potrebbero avere a lungo termine.
+      La struttura dell’Ethical Compass è stata ideata in maniera flessibile: può essere modellato sulla base delle necessità del progetto e del cliente ed essere utilizzato in più momenti del processo di progettazione.
+      <br><br  /> "
+    # video trailer?
+    trailer: false
+    trailer_url: "https://player.vimeo.com/video/352012164"
+    # nota sul titolo: se il linguaggio specificato in `language` NON in clude 'italian', in pagina viene aggiunta la "s" finale
+    teacher_title: "Insegnanti"
+    teachers:
+      teacher_1:
+        teacher_name: "Anna Portelli"
+        teacher_bio: "Service ed Experience designer in Tangible dal 2022, ho lavorato per diversi settori di business, dai siti PA, ad applicazioni di sport, comunicazione di prodotto, HMI e infotainment automotive.
+        A volte ho imparato più sul campo che sui libri, con la fortuna di avere sempre incontrato persone capaci di insegnarmi i segreti del mestiere.
+        Amo la montagna, ascoltare podcast e girovagare senza meta per Torino, ma sopra ogni cosa amo la corsa e tutti i km di una Maratona.
+        <a href='https://www.linkedin.com/in/anna-portelli-0536a820/'>Questo è il mio profilo LinkedIn.</a>"
+        pic_filename: "anna-portelli.jpeg"
+        teacher_role: "Service & Experience Designer"
+        teacher_org: "Tangible"
+      teacher_2:
+        teacher_name: "Valentina Marzola"
+        teacher_bio: "Service ed Experience designer in Tangible dal 2021, ho esperienza in diversi settori dal manufacturing all'IT, dai servizi alla PA, fino al mondo consumer.
+        Adoro spassionatamente la radio, le storie paranormali e passeggiare col mio cane, e vi dedico lo stesso impegno che nel districarmi tra la progettazione e ricerca, e la gestione dei progetti.
+        Amo poter condividere ciò che imparo o carpisco anche solo da un semplice articolo e negli ultimi due anni ho fatto formazione presso il TAG Innovation School. <a href='https://www.linkedin.com/in/valentinamarzola/'>Questo è il mio profilo LinkedIn.</a>"
+        pic_filename: "valentina-marzola.jpeg"
+        teacher_role: "Service & Experience Designer"
+        teacher_org: "Tangible"
+    topics_title: "Il programma si concretizza in una serie di strumenti di facilitazione e si snoda in due momenti principali:"
+    topics:
+      - "Il primo è dedicato all’assessment e consente di analizzare il proprio progetto secondo cinque aree di indagine;"
+      - "Il secondo momento è destinato invece ad approfondire le aree d’indagine citate sopra che impattano maggiormente il progetto. Attraverso un workshop dedicato, costituito da più esercizi, si passa dall’immaginazione dei possibili scenari indesiderati, alla mappatura dei rischi che porterebbero alla sua realizzazione fino ad arrivare alla definizione degli outcome e linee guida future."
+    addressees_title: "A chi è rivolto"
+    addressees_description: "Il workshop è rivolto a tutti i ruoli aziendali che a diversi livelli sono coinvolti nella progettazione di nuovi prodotti e servizi: Executives, Product Managers, Project Managers, Area Managers, e alle persone maggiormente coinvolte nella relazione con il cliente finale dell’azienda."
+    requirements_title: "Requisiti di partecipazione"
+    requirements_description: "Per partecipare al workshop non sono richiesti pre-requisiti particolari, può aiutare aver già partecipato a workshop di progettazione e design. Ma quello che conta è apertura mentale, entusiasmo e voglia di sperimentare."
+    useful_info_title: "Cosa ottieni partecipando"
+    useful_info_description: "Grazie a questo workshop avrai modo di confrontarti con altre persone che come te sono sensibili ai valori dell’etica e dell'inclusione. Ti porterai a casa spunti, riflessioni e punti di vista che forse non avevi ancora considerato, oltre a una modalità di approccio un po’ diversa dai classici workshop: non troverai soluzioni, ma imparerai a porti le domande giuste."
+    # CTA
+    cta_title: "Acquista il biglietto per partecipare"
