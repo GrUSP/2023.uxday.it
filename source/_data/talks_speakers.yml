@@ -10,7 +10,7 @@ speaker_1: &mariasole-biondi
   speaker_name: Maria Sole Biondi
   speaker_pic_filename: mariasole-biondi.png
   speaker_role: "UX Research & Design @ Belka"
-  speaker_bio: ""
+  speaker_bio: "Lavoro come UX Researcher in Belka e trascorro le mie giornate tra domande e insight: traccio collegamenti tra le azioni e i racconti degli utenti per prendere decisioni informate sullo sviluppo di prodotti digitali."
   speaker_linkedin_url: "https://www.linkedin.com/in/maria-sole-biondi/"
   is_mc: false
 speaker_2: &davide-bizzo
