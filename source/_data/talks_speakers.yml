@@ -239,16 +239,23 @@ days:
         talk_video_url:
         speakers:
           speaker_1: *girolamo-giannatempo
-      # keynote:
-      #   item_type: "talk"
-      #   track: *track_1
-      #   start_datetime:
-      #   end_datetime:
-      #   talk_title: ""
-      #   talk_description: ""
-      #   talk_video_url:
-      #   speakers:
-      #     speaker_1: *ilaria-mauric
+      keynote:
+        item_type: "talk"
+        track: *track_1
+        start_datetime:
+        end_datetime:
+        talk_title: "Il Grande Disincanto"
+        talk_description: "“Ethical design è un’espressione che mi lascia interdetto. Mi fa sentire giudicato.” è una delle risposte più significative che abbiamo raccolto intervistando i nostri stakeholder primari.
+        Ma anche “Inclusione è una parola che esclude: chi e come si decide chi è dentro e chi è fuori?”
+        Abbiamo perso il conto delle epifanie (o anche “docce fredde”) che abbiamo avuto lungo il nostro percorso, nel tentativo di progettare eticamente e per un impatto positivo.
+        Gli esperimenti, le false piste e le frustrazioni sono stati tanti e una cosa l’abbiamo capita: non finiranno mai.
+        Quindi abbiamo deciso di chiedere a colleghe/i a che punto fossero arrivati anche loro.
+        Chissà, magari le difficoltà sono solo nostre e c'è chi ha già capito tutto.
+        Mentre scrivo questo abstract, stiamo preparando il questionario e alla conferenza racconteremo il quadro che possiamo delineare grazie alle risposte raccolte: fallimenti e successi, schiaffoni e complimenti, i tanti dubbi e, speriamo, qualche importante certezza incoraggiante.
+        Nonostante (ma anche grazie a) tutto questo, abbiamo il privilegio di fare uno dei mestieri più belli del mondo."
+        talk_video_url:
+        speakers:
+          speaker_1: *ilaria-mauric
       progettazione-omnicanale:
         item_type: "talk"
         track: *track_1
