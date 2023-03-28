@@ -23,16 +23,12 @@ gold:
     name: "workwave"
     logo_filename: "workwave.svg"
     site_url: "https://www.workwave.com/"
-# silver:
-  # sponsor4:
-  #   name: ""
-  #   logo_filename: ".svg"
-  #   site_url: ""
-bronze:
+silver:
   sponsor1:
     name: "extera"
     logo_filename: "extera.svg"
     site_url: "https://www.extera.com/"
+bronze:
   sponsor4:
     name: "Sticker Mule"
     logo_filename: "stickermule.svg"
