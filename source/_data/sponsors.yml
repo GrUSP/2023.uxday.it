@@ -29,10 +29,15 @@ silver:
     logo_filename: "extera.svg"
     site_url: "https://www.extera.com/"
 bronze:
-  sponsor4:
+  sponsor1:
     name: "Sticker Mule"
     logo_filename: "stickermule.svg"
     site_url: "https://www.stickermule.com/it/uses/laptop-stickers"
+  sponsor2:
+    name: "Tangible"
+    logo_filename: "tangible.svg"
+    site_url: "www.tangible.is"
+
 diversity:
   sponsor1:
     name: "Balsamiq"
