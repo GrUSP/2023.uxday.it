@@ -29,6 +29,10 @@ silver:
     logo_filename: "extera.svg"
     site_url: "https://www.extera.com/"
 bronze:
+  sponsor0:
+    name: "Belka"
+    logo_filename: "belka.svg"
+    site_url: "https://www.belkadigital.com/"
   sponsor1:
     name: "Sticker Mule"
     logo_filename: "stickermule.svg"
