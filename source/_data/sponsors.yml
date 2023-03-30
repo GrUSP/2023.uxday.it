@@ -36,7 +36,7 @@ bronze:
   sponsor2:
     name: "Tangible"
     logo_filename: "tangible.svg"
-    site_url: "www.tangible.is"
+    site_url: "https://tangible.is/"
 
 diversity:
   sponsor1:
