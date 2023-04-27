@@ -129,7 +129,9 @@ workshops:
       "<strong>Una bussola per esplorare la complessità.</strong>
       <br><br  /> L'Ethical Compass è uno strumento pratico che ha l’obiettivo di aiutare ad orientare le decisioni progettuali, provando ad immaginare l’impatto che queste potrebbero avere a lungo termine.
       La struttura dell’Ethical Compass è stata ideata in maniera flessibile: può essere modellato sulla base delle necessità del progetto e del cliente ed essere utilizzato in più momenti del processo di progettazione.
-      <br><br  /> "
+      <br><br  />
+      Ad esempio, se si sta progettando un servizio di ride-sharing, l'Ethical Compass potrebbe aiutare a considerare il rischio che la tecnologia utilizzi dati degli utenti senza il loro consenso, compromettendo la loro privacy.
+      Oppure, se si sta sviluppando una nuova interfaccia per un software aziendale, l'Ethical Compass potrebbe aiutare a considerare il rischio che l'interfaccia non sia accessibile per le persone con disabilità visiva."
     # video trailer?
     trailer: false
     trailer_url: "https://player.vimeo.com/video/352012164"
@@ -155,8 +157,8 @@ workshops:
         teacher_org: "Tangible"
     topics_title: "Il programma si concretizza in una serie di strumenti di facilitazione e si snoda in due momenti principali:"
     topics:
-      - "Il primo è dedicato all’assessment e consente di analizzare il proprio progetto secondo cinque aree di indagine;"
-      - "Il secondo momento è destinato invece ad approfondire le aree d’indagine citate sopra che impattano maggiormente il progetto. Attraverso un workshop dedicato, costituito da più esercizi, si passa dall’immaginazione dei possibili scenari indesiderati, alla mappatura dei rischi che porterebbero alla sua realizzazione fino ad arrivare alla definizione degli outcome e linee guida future."
+      - "Nella prima fase verrà svolto un assessment delle cinque aree di indagine dell'Ethical Compass: accessibilità ed ergonomia fisica, sicurezza, inclusione, fiducia, autonomia e autodeterminazione."
+      - "Nella seconda fase, verranno approfondite le aree di indagine più rilevanti per il progetto attraverso esercizi pratici. Il processo inizierà immaginando possibili scenari indesiderati, proseguirà con la mappatura dei rischi e si concluderà definendo gli outcome e le linee guida future."
     addressees_title: "A chi è rivolto"
     addressees_description: "Il workshop è rivolto a tutti i ruoli aziendali che a diversi livelli sono coinvolti nella progettazione di nuovi prodotti e servizi: Executives, Product Managers, Project Managers, Area Managers, e alle persone maggiormente coinvolte nella relazione con il cliente finale dell’azienda."
     requirements_title: "Requisiti di partecipazione"
