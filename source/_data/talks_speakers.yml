@@ -140,50 +140,50 @@ tracks:
 
 days:
   day_1:
-    date: 2023-06-09T09:00+02:00
+    date: 2023-09-29T09:00+02:00
     title: "Day 1"
     talks:
 
       checkin:
         item_type: "service"
-        start_datetime: 2023-06-09T09:00+02:00
-        end_datetime: 2023-06-09T09:30+02:00
+        start_datetime: 2023-09-29T09:00+02:00
+        end_datetime: 2023-09-29T09:30+02:00
         talk_title: "Check-in"
       opening:
         item_type: "service"
-        start_datetime: 2023-06-09T09:30+02:00
-        end_datetime: 2023-06-09T09:45+02:00
+        start_datetime: 2023-09-29T09:30+02:00
+        end_datetime: 2023-09-29T09:45+02:00
         talk_title: "Intro by GrUSP"
       coffee-morning:
         item_type: "service"
-        start_datetime: 2023-06-09T10:55+02:00
-        end_datetime: 2023-06-09T11:25+02:00
+        start_datetime: 2023-09-29T10:55+02:00
+        end_datetime: 2023-09-29T11:25+02:00
         talk_title: "Pausa Caffé"
         service_icon: "coffee"
       lunch:
         item_type: "service"
-        start_datetime: 2023-06-09T13:10+02:00
-        end_datetime: 2023-06-09T14:30+02:00
+        start_datetime: 2023-09-29T13:10+02:00
+        end_datetime: 2023-09-29T14:30+02:00
         talk_title: "Pausa pranzo"
         service_icon: "cutlery"
       coffee-afternoon:
         item_type: "service"
-        start_datetime: 2023-06-09T15:40+02:00
-        end_datetime: 2023-06-09T16:10+02:00
+        start_datetime: 2023-09-29T15:40+02:00
+        end_datetime: 2023-09-29T16:10+02:00
         talk_title: "Pausa Caffé"
         service_icon: "coffee"
       closing:
         item_type: "service"
-        start_datetime: 2023-06-09T17:20+02:00
-        end_datetime: 2023-06-09T17:30+02:00
+        start_datetime: 2023-09-29T17:20+02:00
+        end_datetime: 2023-09-29T17:30+02:00
         talk_title: "Saluti da GrUSP"
 
       # talk
       progettazione-omnicanale:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T09:45+02:00
-        end_datetime: 2023-06-09T10:20+02:00
+        start_datetime: 2023-09-29T09:45+02:00
+        end_datetime: 2023-09-29T10:20+02:00
         talk_title: "Progettare contenuti per più dispositivi	"
         talk_description: "Le aziende si trovano a gestire oggi una pluralità crescente di dispositivi e canali.
         Produrre varianti di uno stesso contenuto per ogni touchpoint di destinazione comporta un notevole dispendio di energie e costi, e il rischio di un’incoerenza fra i vari canali.
@@ -196,8 +196,8 @@ days:
       microcopy:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T10:20+02:00
-        end_datetime: 2023-06-09T10:55+02:00
+        start_datetime: 2023-09-29T10:20+02:00
+        end_datetime: 2023-09-29T10:55+02:00
         talk_title: "Come scrivere microcopy utile"
         talk_description: "Avendo iniziato a lavorare a Londra come UX Designer, ho imparato da subito a scrivere microcopy in inglese usando poche parole ma semplici ed efficaci.
         Poi sono tornata in Italia e, oltre ad essermi imbattuta in microcopy incomprensibili, ho dovuto io stessa iniziare a scriverle. Peccato però che l'italiano è una lingua molto più complessa, con più formalismi e più discorsiva.
@@ -208,8 +208,8 @@ days:
       ux-sostenibile:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T11:25+02:00
-        end_datetime: 2023-06-09T12:00+02:00
+        start_datetime: 2023-09-29T11:25+02:00
+        end_datetime: 2023-09-29T12:00+02:00
         talk_title: "UX e Web sostenibile"
         talk_description: "Quanto è sostenibile la UX per il nostro Pianeta?
         Che si tratti di utilizzare Internet per lavoro, per accrescimento personale o semplicemente per staccarsi dalla realtà, tutto questo ha un costo e un forte impatto ambientale.
@@ -222,8 +222,8 @@ days:
       cross-cultural:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T12:00+02:00
-        end_datetime: 2023-06-09T12:35+02:00
+        start_datetime: 2023-09-29T12:00+02:00
+        end_datetime: 2023-09-29T12:35+02:00
         talk_title: "Come (non) affrontare un progetto cross-cultural, e collaborare con un team interculturale"
         talk_description: "Lavorare e collaborare con persone che vivono in altri paesi occidentali è di per sé un’esperienza che arricchisce: anche se i rituali lavorativi, il processo di sviluppo, e persino il processo creativo sono gli stessi, ci sono dei dettagli che ti fanno percepire l’altra cultura.
         Per esempio, praticamente tutti (tranne chi vive in Italia) amano la pizza all’ananas 😄 🍕🍍
@@ -236,8 +236,8 @@ days:
       customer-centricity:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T12:35+02:00
-        end_datetime: 2023-06-09T13:10+02:00
+        start_datetime: 2023-09-29T12:35+02:00
+        end_datetime: 2023-09-29T13:10+02:00
         talk_title: "Customer Centricity: il ruolo della User Experience nel mercato delle aste online"
         talk_description: "Scopriamo l’impatto della User Experience attraverso un caso pratico, il redesign di un portale di aste online.
         Un progetto completamente user centered che ha visto UX e design interagire con gli stakeholders aziendali per proporre una nuova esperienza nella ricerca e acquisto di un immobile all’asta.
@@ -249,8 +249,8 @@ days:
       errori:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T14:30+02:00
-        end_datetime: 2023-06-09T15:05+02:00
+        start_datetime: 2023-09-29T14:30+02:00
+        end_datetime: 2023-09-29T15:05+02:00
         talk_title: "3 errori di UX che fanno arrabbiare i tuoi clienti online"
         talk_description: "Aspettative, obiettivi, emozioni: come analizzarle e gestirle nella progettazione e analisi di un prodotto digitale?
         Ascolta la voce di decine di partecipanti a test di usabilità condotti con un metodo scientifico e impara:
@@ -263,8 +263,8 @@ days:
       ux-research:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T15:05+02:00
-        end_datetime: 2023-06-09T15:40+02:00
+        start_datetime: 2023-09-29T15:05+02:00
+        end_datetime: 2023-09-29T15:40+02:00
         talk_title: "UX Research d’impatto - Guadagna la fiducia dei tuoi stakeholder"
         talk_description: "Proporre ricerca utente non è semplice. Come trasmetterne il valore quando ci sentiamo dire dagli stakeholder un grande 'no grazie' oppure un 'lo faremo più avanti'?
         E come gestire le aspettative di chi invece è così entusiasta da voler fare ricerca su qualunque aspetto del prodotto perdendo di vista le reali priorità?
@@ -283,8 +283,8 @@ days:
       design-accessibile:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T16:10+02:00
-        end_datetime: 2023-06-09T16:45+02:00
+        start_datetime: 2023-09-29T16:10+02:00
+        end_datetime: 2023-09-29T16:45+02:00
         talk_title: "Il designer è il problema, il design è la soluzione"
         talk_description: "Il design, come metodo progettuale, ha tutti gli strumenti per rendere il web più accessibile.
         Il problema è il designer, inteso come essere umano che volontariamente decide di non preoccuparsi delle persone.
@@ -300,8 +300,8 @@ days:
       keynote:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2023-06-09T16:45+02:00
-        end_datetime: 2023-06-09T17:20+02:00
+        start_datetime: 2023-09-29T16:45+02:00
+        end_datetime: 2023-09-29T17:20+02:00
         talk_title: "Il Grande Disincanto"
         talk_description: "“Ethical design è un’espressione che mi lascia interdetto. Mi fa sentire giudicato.” è una delle risposte più significative che abbiamo raccolto intervistando i nostri stakeholder primari.
         Ma anche “Inclusione è una parola che esclude: chi e come si decide chi è dentro e chi è fuori?”
