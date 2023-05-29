@@ -44,7 +44,7 @@ conference:
   update_warning_header: "Nuova data"
   update_title: "Conferenza rinviata al 29 Settembre a causa dell'alluvione a Faenza e in Romagna"
   update_description: ""
-  update_link_url: "https://2023.uxday.it/welcome/about.html"
+  update_link_url: "https://2023.uxday.it/welcome/about.html#comunicato"
   update_link_label: "Maggiori spiegazioni sul rinvio"
   # "call for papers" component. set the first parameter to true to make it appear in home page, false means hidden
   cfp_open: false
