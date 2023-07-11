@@ -5,21 +5,21 @@ schedule_under_construction_description: "We are still defining the schedule. Pl
 
 # Speakers. I mixin "&nome" servono per indicare quali speaker partecipano a ogni talk, sotto
 
-speaker_1: &mariasole-biondi
+speaker_1: &danilo-africano
+  speaker_in_speaker_lists: true
+  speaker_name: Danilo Africano
+  speaker_pic_filename: danilo-africano.png
+  speaker_role: "UX Specialist @ abilio"
+  speaker_bio: "Sono appassionato di psicologia cognitiva e antropologia culturale, sempre alla ricerca delle ultime novità nel campo tecnologico. Mi sono formato professionalmente a Londra e attualmente mi destreggio tra la ricerca utente e l'ottimizzazione dei tassi di conversione. La CRO è il mio pane quotidiano, ma la mia creatività trova sfogo anche nel design e nella grafica. Mi definisco un abile cacciatore di dati, costantemente impegnato nell'analisi e nell'interpretazione per migliorare continuamente i risultati. Unisco la mia passione per la psicologia, la tecnologia e il design in un mix esplosivo di creatività e conoscenza."
+  speaker_linkedin_url: "https://www.linkedin.com/in/danilo-africano-3828a444/"
+  is_mc: false
+speaker_2: &mariasole-biondi
   speaker_in_speaker_lists: true
   speaker_name: Maria Sole Biondi
   speaker_pic_filename: mariasole-biondi.png
   speaker_role: "UX Research & Design @ Belka"
   speaker_bio: "Lavoro come UX Researcher in Belka e trascorro le mie giornate tra domande e insight: traccio collegamenti tra le azioni e i racconti degli utenti per prendere decisioni informate sullo sviluppo di prodotti digitali."
   speaker_linkedin_url: "https://www.linkedin.com/in/maria-sole-biondi/"
-  is_mc: false
-speaker_2: &davide-bizzo
-  speaker_in_speaker_lists: true
-  speaker_name: Davide Bizzo
-  speaker_pic_filename: davide-bizzo.png
-  speaker_role: "Head of User Experience e Design @ Abilio, gruppo Illimity Bank"
-  speaker_bio: "Vivo la vita un quarto di customer journey alla volta. Head of User Experience & Design di Abilio, società del gruppo Illimity Bank, con un passato da designer e marketer. Migliore amico di hotjar, cammino come un equilibrista tra le esigenze di business e l’esperienza utente."
-  speaker_linkedin_url: "https://www.linkedin.com/in/davide-bizzo-65b57266/"
   is_mc: false
 speaker_3: &mariaelena-calisi
   speaker_in_speaker_lists: true
@@ -69,7 +69,16 @@ Come Impact Manager, insieme ai miei colleghi del BCorp team, analizziamo, imple
 Come Head of Design, supporto i nostri team a progettare secondo processi e metodi humane-centered, attenti agli impatti sui sistemi sociali e ambientali e basati sulla collaborazione con clienti e stakeholders."
   speaker_linkedin_url: "https://www.linkedin.com/in/ilariamauric/"
   is_mc: false
-speaker_8: &luca-rosati
+speaker_8: &federica-mucci
+  speaker_in_speaker_lists: true
+  speaker_name: Federica Mucci
+  speaker_pic_filename: federica-mucci.png
+  speaker_role: "UX Reseacher & Designer @ abilio"
+  speaker_bio: "Lavoro da 3 anni per Abilio, società del gruppo illimity bank.
+Sono una UX Researcher specializzata in analisi e ricerca, con un occhio per la scrittura e per l'armonia dei contenuti. Nel mio percorso ho studiato Informatica per il Management e da un esame di psicologia cognitiva in ambito di reti ho capito quale fosse la mia strada! Ho molte passioni ma prima tra tutte il cinema."
+  speaker_linkedin_url: "https://www.linkedin.com/in/federica-mucci-b674a214b/"
+  is_mc: false
+speaker_9: &luca-rosati
   speaker_in_speaker_lists: true
   speaker_name: Luca Rosati
   speaker_pic_filename: luca-rosati.png
@@ -78,7 +87,7 @@ speaker_8: &luca-rosati
   speaker_twitter_url: "https://twitter.com/lucarosati	"
   speaker_linkedin_url: "https://www.linkedin.com/in/lucarosati"
   is_mc: false
-speaker_9: &valeria-salis
+speaker_10: &valeria-salis
   speaker_in_speaker_lists: true
   speaker_name: Valeria Salis
   speaker_pic_filename: valeria-salis.png
@@ -86,7 +95,7 @@ speaker_9: &valeria-salis
   speaker_bio: "Da sempre appassionata di tecnologia e musica, sviluppo un'indole ibrida che mi porta ad iscrivermi alla facoltà di Informatica Musicale. Successivamente mi tuffo completamente nello sviluppo web. Nasco come backendista, in SparkFabrik entro a far parte del Drupal Team e una particolare sensibilità mi porta ad appassionarmi anche di accessibilità e sostenibilità."
   speaker_linkedin_url: "https://www.linkedin.com/in/valeria-salis-0a0819151/"
   is_mc: false
-speaker_10: &matteo-tibolla
+speaker_11: &matteo-tibolla
   speaker_in_speaker_lists: true
   speaker_name: Matteo Tibolla
   speaker_pic_filename: matteo-tibolla.png
@@ -94,7 +103,7 @@ speaker_10: &matteo-tibolla
   speaker_bio: "Sociologo delle organizzazioni, appassionato da sempre degli effetti della tecnologia sul benessere delle persone, è UX researcher, consulente di digital marketing e formatore. Dopo un’esperienza come analista e consulente in agenzia di neuromarketing, si specializza negli studi sulla User Experience e web usability. Nel 2023 pubblica il libro ''User Experience Research. Scienza e principi guida per esperienze online efficaci'"
   speaker_linkedin_url: "https://www.linkedin.com/in/matteotibolla/"
   is_mc: false
-speaker_11: &marco-santonocito
+speaker_12: &marco-santonocito
   speaker_in_speaker_lists: true
   speaker_name: Marco Santonocito
   speaker_pic_filename: marco-santonocito.png
@@ -106,17 +115,18 @@ speaker_11: &marco-santonocito
   is_mc: true
 
 speakers:
-  speaker_1: *mariasole-biondi
-  speaker_2: *davide-bizzo
+  speaker_1: *danilo-africano
+  speaker_2: *mariasole-biondi
   speaker_3: *mariaelena-calisi
   speaker_4: *sara-fazzini
   speaker_5: *michela-frecchiami
   speaker_6: *girolamo-giannatempo
   speaker_7: *ilaria-mauric
-  speaker_8: *luca-rosati
-  speaker_9: *valeria-salis
-  speaker_10: *matteo-tibolla
-  speaker_11: *marco-santonocito
+  speaker_8: *federica-mucci
+  speaker_9: *luca-rosati
+  speaker_10: *valeria-salis
+  speaker_11: *matteo-tibolla
+  speaker_12: *marco-santonocito
 
 
 tracks:
@@ -245,7 +255,8 @@ days:
         Analizziamo il modo in cui strumenti come chatbot o knowledge base possano impattare sia sui processi aziendali che sulle conversioni."
         talk_video_url:
         speakers:
-          speaker_1: *davide-bizzo
+          speaker_1: *danilo-africano
+          speaker_2: *federica-mucci
       errori:
         item_type: "talk"
         track: *track_1
