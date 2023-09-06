@@ -99,8 +99,8 @@ speaker_11: &matteo-tibolla
   speaker_in_speaker_lists: true
   speaker_name: Matteo Tibolla
   speaker_pic_filename: matteo-tibolla.png
-  speaker_role: "UX Researcher e Consulente Digital Marketing	"
-  speaker_bio: "Sociologo delle organizzazioni, appassionato da sempre degli effetti della tecnologia sul benessere delle persone, è UX researcher, consulente di digital marketing e formatore. Dopo un’esperienza come analista e consulente in agenzia di neuromarketing, si specializza negli studi sulla User Experience e web usability. Nel 2023 pubblica il libro ''User Experience Research. Scienza e principi guida per esperienze online efficaci'"
+  speaker_role: "UX Researcher @ TeamSystem"
+  speaker_bio: "Di formazione sociologo, è UX Researcher e consulente. A seguito dell'esperienza nel campo del neuromarketing, si specializza in User Experience e web usability. Nel 2023 pubblica il libro 'User Experience Research. Scienza e principi guida per esperienze online efficaci'"
   speaker_linkedin_url: "https://www.linkedin.com/in/matteotibolla/"
   is_mc: false
 speaker_12: &marco-santonocito
@@ -262,12 +262,13 @@ days:
         track: *track_1
         start_datetime: 2023-09-29T14:30+02:00
         end_datetime: 2023-09-29T15:05+02:00
-        talk_title: "3 errori di UX che fanno arrabbiare i tuoi clienti online"
-        talk_description: "Aspettative, obiettivi, emozioni: come analizzarle e gestirle nella progettazione e analisi di un prodotto digitale?
-        Ascolta la voce di decine di partecipanti a test di usabilità condotti con un metodo scientifico e impara:
-        <li>A non far arrabbiare i tuoi clienti mentre utilizzano le tue interfacce per raggiungere i loro obiettivi;</li>
+        talk_title: "3 errori da evitare nella valutazione della UX di un prodotto"
+        talk_description: "Aspettative, obiettivi, emozioni: come analizzarle nella progettazione e analisi di un prodotto digitale?
+        Impara a progettare un usability testing in modo scientifico, bilanciando standardizzazione per la raccolta e analisi dei dati e personalizzazione.
+        Approfondiremo assieme:
+        <li>Come costruire un test di usabilità, dal campionamento alla stesura delle domande;</li>
         <li>Perché le scienze comportamentali sono la disciplina fondamentale per chi lavora nella UX;</li>
-        <li>Ad analizzare l'impatto emozionale che suscitano le interfacce sul tuo target.</li>"
+        <li>A evitare i bias cognitivi che possono far raccogliere dati poco precisi.</li>"
         talk_video_url:
         speakers:
           speaker_1: *matteo-tibolla
