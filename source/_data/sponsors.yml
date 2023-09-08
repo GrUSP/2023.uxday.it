@@ -49,6 +49,10 @@ bronze:
     name: "Tangible"
     logo_filename: "tangible.svg"
     site_url: "https://tangible.is/"
+  sponsor5:
+    name: "TeamSystem"
+    logo_filename: "teamsystem.svg"
+    site_url: "https://www.teamsystem.com/"
 
 diversity:
   sponsor1:

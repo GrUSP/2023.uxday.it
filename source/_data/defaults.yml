@@ -35,15 +35,15 @@ conference:
   countdown_minutes: "minuti"
   countdown_seconds: "secondi"
   ticket_button_visible: true
-  hero_buy_tickets_label: "Assicurati un posto"
+  hero_buy_tickets_label: "Partecipa online"
   # image credits (l'esempio è per la hero del CSS Day!)
   # hero_img_credits: "Image by Gianni Careddu - Own work, <a href='https://commons.wikimedia.org/w/index.php?curid=74821344 target='_blank' rel='noopener noreferrer'>CC BY-SA 4.0</a>"
   # "update" component. set the first parameter to true to make it appear in home page, false means hidden
   update_visible: true
   update_is_warning: true
-  update_warning_header: "Nuova data"
-  update_title: "Conferenza rinviata al 29 Settembre a causa dell'alluvione a Faenza e in Romagna"
-  update_description: ""
+  update_warning_header: "Sold-out!"
+  update_title: "Sold out"
+  update_description: "I posti per partecipare in presenza a Faenza sono esauriti! Puoi partecipare online. La conferenza è stata rinviata al 29 Settembre a causa delle alluvioni in Romagna."
   update_link_url: "https://2023.uxday.it/welcome/about.html#comunicato"
   update_link_label: "Maggiori spiegazioni sul rinvio"
   # "call for papers" component. set the first parameter to true to make it appear in home page, false means hidden
