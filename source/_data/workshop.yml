@@ -56,13 +56,13 @@ workshops:
       teacher_1:
         teacher_name: "Mattia Marinangeli"
         teacher_bio: "<a href='https://www.linkedin.com/in/mattiamarinangeli/''>Mattia</a> ha diversi anni di esperienza come product designer in varie agenzie digitali, aziende e startup. Attualmente collabora con Belka su progetti di Design System come product designer, consulente e formatore. Designer del FantaSanremo (sì raga, proprio quello), è appassionato da sempre di musica, sport di montagna e da tutto ciò che è visivo. Marchigiano DOC, sa anche far ridere."
-        pic_filename: "Mattia-Marinangeli.jpeg"
+        pic_filename: "Mattia-Marinangeli.jpg"
         teacher_role: "Product designer"
         teacher_org: "Belka"
       teacher_2:
-        teacher_name: "Eugenia Valentini"
-        teacher_bio: "Filosofa per caso, relational designer diplomata e product designer per scelta. In Belka dal 2021, <a href='https://www.linkedin.com/in/eugenia-valentini-design/'>Eugenia</a> non ha ancora capito perchè finisce sempre in progetti iper-complessi. Ama fare domande scomode. Da vera nomade digitale, lavora ogni mese da un posto diverso. Di solito le sue riunioni iniziano con un 'Oggi da dove ci chiami?'"
-        pic_filename: "Eugenia-Valentini.jpeg"
+        teacher_name: "Diego Robaldo"
+        teacher_bio: "Diego inizia a maneggiare pixel nel 2019 per una rilevante realtà torinese. Ad aprile 2022 entra a far parte del team di Belka come product designer, dove scopre un modo diverso di relazionarsi con il lavoro. Non crede nei video motivazionali, nei guru di LinkedIn e nelle bio scritte in terza persona. A Diego piace muoversi a piedi o in bici, l’odore della carta e l’accezione positiva dell’atteggiamento anacronistico."
+        pic_filename: "Diego-Robaldo.jpg"
         teacher_role: "Product designer"
         teacher_org: "Belka"
     topics_title: "Argomenti trattati"
